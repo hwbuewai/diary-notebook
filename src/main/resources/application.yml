@@ -2,8 +2,8 @@ spring:
   datasource:
     url: jdbc:h2:mem:diarydb
     driver-class-name: org.h2.Driver
-    username: sa
-    password:
+    username: your_uesrname_here
+    password: your_password_here
   h2:
     console:
       enabled: true
